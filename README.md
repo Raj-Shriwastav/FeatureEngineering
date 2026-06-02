@@ -1,8 +1,8 @@
 
-# **Breast Cancer Dataset - Anomaly Detection Assignment**
+# **Breast Cancer Dataset - Anomaly Detection  **
 
 ## Overview
-This repository contains the implementation of multiple anomaly detection methods applied to the Breast Cancer dataset. The methods explored in this assignment include Z-Score, Mahalanobis Distance, Local Outlier Factor (LOF), Isolation Forest, and One-Class SVM. The project demonstrates data preprocessing, anomaly detection, and result evaluation using performance metrics and visualizations.
+This repository contains the implementation of multiple anomaly detection methods applied to the Breast Cancer dataset. The methods explored in this   include Z-Score, Mahalanobis Distance, Local Outlier Factor (LOF), Isolation Forest, and One-Class SVM. The project demonstrates data preprocessing, anomaly detection, and result evaluation using performance metrics and visualizations.
 
 ## Setup and Imports
 The following Python libraries are utilized in this project:
